@@ -1,0 +1,17 @@
+{
+  "name": "nanolo/nali",
+  "description": "Nanolo Lib",
+  "keywords": [
+    "php",
+    "nanolo"
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nanolo\\": "fwork/"
+    }
+  }
+}
