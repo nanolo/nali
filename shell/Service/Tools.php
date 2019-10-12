@@ -1,6 +1,6 @@
 <?php
 
-namespace Nanolo\Service\Tools;
+namespace Nanolo\Service;
 
 class Tools
 {
