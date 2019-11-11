@@ -1,10 +1,10 @@
 <?php
 
-namespace Nanolo\Service\Tools;
+namespace Nanolo\Service;
 
 class Tools
 {
-    public function printArray($array)
+    public static function printArray($array)
     {
         echo "<pre>" . print_r($array,true) . "</pre>";
     }
